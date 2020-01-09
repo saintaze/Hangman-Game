@@ -6,7 +6,7 @@ It's a classic hangman game. You have to guess the letters of a secret word to w
 
 
 # Live Version
-####  URL: [Play the Game](https://repl.it/@saintaze/hangman)
+####  URL: [Guess The Word](https://repl.it/@saintaze/hangman)
 
 # Authors
 + Saintaze [@saintaze](https://github.com/saintaze/)
